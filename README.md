@@ -85,6 +85,15 @@ Ethereum, Base, Polygon, Arbitrum, Optimism, Avalanche, BSC, Fantom, Solana
 | On-Chain Analytics | `/v1/onchain-analytics/gas/{chain}` | 1 |
 | DeFi Trading | `/v1/defi-trading/prices` | 1 |
 
+## Try the APIs (No Code)
+
+See the data these tools return — right in your browser:
+
+- [Live Crypto Prices](https://api-catalog-three.vercel.app/tools/crypto-prices) — real-time 38-token tracker
+- [IP Geolocation Lookup](https://api-catalog-three.vercel.app/tools/ip-geolocation) — look up any IP address
+- [DNS Lookup](https://api-catalog-three.vercel.app/tools/dns-lookup) — resolve domain records
+- [All Free Tools](https://api-catalog-three.vercel.app/tools)
+
 ## Free Tier
 
 Every API key comes with **200 free credits** (1 credit = 1 API call). No signup, no credit card.
