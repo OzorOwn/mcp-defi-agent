@@ -1,0 +1,13 @@
+{
+  "name": "mcp-defi-agent",
+  "version": "1.0.0",
+  "description": "DeFi agent using Model Context Protocol (MCP) for Claude Desktop and Cursor integration",
+  "type": "module",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js",
+    "demo": "node agent.js"
+  },
+  "keywords": ["mcp", "defi", "claude", "cursor", "ai-agent", "crypto"],
+  "license": "MIT"
+}
